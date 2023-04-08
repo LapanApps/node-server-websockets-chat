@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "ws": "^8.13.0"
+  },
+
+  "devDependencies": {
+    "@babel/helper-compilation-targets": "^7.20.7"
+  }
+    
+}
+
